@@ -1,6 +1,6 @@
-package prueba1;
+package S01;
 import java.util.Scanner;
-public class Prueba1 {
+public class area_rectángulo {
     
     public static void main(String[] args) {
         
