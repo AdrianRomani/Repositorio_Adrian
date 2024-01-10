@@ -1,4 +1,4 @@
-package S01;
+package Sesion1;
 import java.util.Scanner;
 public class area_rectángulo {
     
