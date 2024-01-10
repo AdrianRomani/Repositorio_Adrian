@@ -1,0 +1,16 @@
+package S01;
+import java.util.Scanner;
+public class formula_matematica {
+    
+    public static void main(String[] args) {
+        
+        int a,b,c;
+        Scanner entrada= new Scanner (System.in);
+        System.out.println("Ingrese 3 numeros:");
+        a=entrada.nextInt();
+        b=entrada.nextInt();
+        c=entrada.nextInt();
+        
+        double prom=(a+b+c)/3;
+        
+        System.out.println("El promedio es "+prom);
